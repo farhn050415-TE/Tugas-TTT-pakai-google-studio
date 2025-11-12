@@ -2,7 +2,6 @@ import React from 'react';
 
 interface SliderProps {
   label: string;
-  // FIX: Add name property to SliderProps to allow identifying the slider in change handlers.
   name: string;
   value: number;
   min: number;
