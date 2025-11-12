@@ -1,0 +1,5 @@
+{
+  "name": "Impulse Voltage Generator Simulator",
+  "description": "An interactive web application to simulate a high-voltage impulse generator. Users can adjust circuit parameters (resistance, capacitance, voltage, stages) and visualize the resulting impulse waveform on a graph. The app provides real-time analysis of key waveform parameters like peak voltage, front time, and tail time, along with explanations of the circuit components.",
+  "requestFramePermissions": []
+}
